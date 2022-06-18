@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ST2API_TP2_BerthierMaxime/1.0.0": {
+        "runtime": {
+          "ST2API_TP2_BerthierMaxime.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ST2API_TP2_BerthierMaxime/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

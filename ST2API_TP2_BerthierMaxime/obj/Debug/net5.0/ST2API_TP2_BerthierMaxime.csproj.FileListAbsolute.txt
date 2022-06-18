@@ -1,0 +1,16 @@
+/Users/maxime/DocumentsLocal/ST2API_TP2_BerthierMaxime/ST2API_TP2_BerthierMaxime/bin/Debug/net5.0/ST2API_TP2_BerthierMaxime.deps.json
+/Users/maxime/DocumentsLocal/ST2API_TP2_BerthierMaxime/ST2API_TP2_BerthierMaxime/bin/Debug/net5.0/ST2API_TP2_BerthierMaxime.runtimeconfig.json
+/Users/maxime/DocumentsLocal/ST2API_TP2_BerthierMaxime/ST2API_TP2_BerthierMaxime/bin/Debug/net5.0/ST2API_TP2_BerthierMaxime.runtimeconfig.dev.json
+/Users/maxime/DocumentsLocal/ST2API_TP2_BerthierMaxime/ST2API_TP2_BerthierMaxime/bin/Debug/net5.0/ST2API_TP2_BerthierMaxime.dll
+/Users/maxime/DocumentsLocal/ST2API_TP2_BerthierMaxime/ST2API_TP2_BerthierMaxime/bin/Debug/net5.0/ST2API_TP2_BerthierMaxime.pdb
+/Users/maxime/DocumentsLocal/ST2API_TP2_BerthierMaxime/ST2API_TP2_BerthierMaxime/obj/Debug/net5.0/ST2API_TP2_BerthierMaxime.csproj.AssemblyReference.cache
+/Users/maxime/DocumentsLocal/ST2API_TP2_BerthierMaxime/ST2API_TP2_BerthierMaxime/obj/Debug/net5.0/ST2API_TP2_BerthierMaxime.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maxime/DocumentsLocal/ST2API_TP2_BerthierMaxime/ST2API_TP2_BerthierMaxime/obj/Debug/net5.0/ST2API_TP2_BerthierMaxime.AssemblyInfoInputs.cache
+/Users/maxime/DocumentsLocal/ST2API_TP2_BerthierMaxime/ST2API_TP2_BerthierMaxime/obj/Debug/net5.0/ST2API_TP2_BerthierMaxime.AssemblyInfo.cs
+/Users/maxime/DocumentsLocal/ST2API_TP2_BerthierMaxime/ST2API_TP2_BerthierMaxime/obj/Debug/net5.0/ST2API_TP2_BerthierMaxime.csproj.CoreCompileInputs.cache
+/Users/maxime/DocumentsLocal/ST2API_TP2_BerthierMaxime/ST2API_TP2_BerthierMaxime/obj/Debug/net5.0/ST2API_TP2_BerthierMaxime.dll
+/Users/maxime/DocumentsLocal/ST2API_TP2_BerthierMaxime/ST2API_TP2_BerthierMaxime/obj/Debug/net5.0/ref/ST2API_TP2_BerthierMaxime.dll
+/Users/maxime/DocumentsLocal/ST2API_TP2_BerthierMaxime/ST2API_TP2_BerthierMaxime/obj/Debug/net5.0/ST2API_TP2_BerthierMaxime.pdb
+/Users/maxime/DocumentsLocal/ST2API_TP2_BerthierMaxime/ST2API_TP2_BerthierMaxime/obj/Debug/net5.0/ST2API_TP2_BerthierMaxime.genruntimeconfig.cache
+/Users/maxime/DocumentsLocal/ST2API_TP2_BerthierMaxime/ST2API_TP2_BerthierMaxime/bin/Debug/net5.0/ST2API_TP2_BerthierMaxime
+/Users/maxime/DocumentsLocal/ST2API_TP2_BerthierMaxime/ST2API_TP2_BerthierMaxime/obj/Debug/net5.0/refint/ST2API_TP2_BerthierMaxime.dll
